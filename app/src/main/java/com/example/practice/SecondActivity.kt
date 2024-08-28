@@ -17,6 +17,7 @@ class SecondActivity : AppCompatActivity() {
 
         webView.loadUrl("https://github.com/imranwaheed")
 
+        //url is changed now
 
 
     }
